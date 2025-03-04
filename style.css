@@ -6,7 +6,7 @@
   }
   
   body{
-   background: url("https://source.unsplash.com/1600x900/?landscape");
+   background-image: url(./img/premium_photo-1680734656797-423e9ffd7cfb.avif);
    background-size: cover;
    background-position: center;
    min-height: 100vh;
@@ -27,7 +27,7 @@
   h1{
     font-size: 36px;
     text-align: center;
-    color: #fff;
+    color: #ffffff;
   }
   
   .input-container{
@@ -84,6 +84,7 @@
     cursor:pointer;
     font-size: 16px;
     outline: none;
+    border: none;
   }
   
   .submit:hover{
